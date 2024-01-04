@@ -6,5 +6,6 @@ After graduation I have plan to do job or to study abroad.
 I want to do a job in full stack web development. 
 My possible graduation would be after summer25.
 This line is for learning the github isuues.
-This is github merge from main branch
+This line is for github merge conflict from feature2 branch.
+
 
